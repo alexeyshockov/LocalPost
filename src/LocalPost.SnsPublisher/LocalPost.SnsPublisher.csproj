@@ -41,7 +41,7 @@
 
     <ItemGroup>
         <PackageReference Include="AWSSDK.SimpleNotificationService" Version="[3.7.3,4.0.0)" />
-        <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Options" Version="7.0.1" />
         <PackageReference Include="System.Interactive.Async " Version="6.0.1" />
         <PackageReference Include="System.Linq.Async" Version="6.0.1" />
 
